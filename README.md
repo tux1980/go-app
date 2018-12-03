@@ -2,4 +2,4 @@
 
 Demonstrate docker based app deployment on OpenShift.
 
-Check [the related pos](https://www.craftofcoding.com/creating-openshift-apps-2-docker-image-s2i) for more info.
+Check [the related post](https://www.craftofcoding.com/creating-openshift-apps-2-docker-image-s2i) for more info.
