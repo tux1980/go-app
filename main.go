@@ -6,7 +6,7 @@ import (
 )
 
 func helloHandler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "Hello OpenShift!")
+	fmt.Fprintln(w, "<h1>Hello OpenShift!</h1>")
 }
 
 func listenAndServe(port string) {
